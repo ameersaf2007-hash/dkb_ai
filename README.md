@@ -4,3 +4,8 @@ ai usage and ai config and creating ai
 somthing 
 somthing
 add after new branch 
+
+## kemahiran
+Python
+Github
+Computer Vision
